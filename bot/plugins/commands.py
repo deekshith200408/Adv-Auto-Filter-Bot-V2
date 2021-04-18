@@ -35,7 +35,7 @@ async def start(bot, update):
                         [
                             InlineKeyboardButton
                                 (
-                                    'Developers', url="https://t.me/CrazyBotsz"
+                                    '📽️MAIN CHANNEL📽️', url="https://t.me/UNI_MOVIES_BOX"
                                 )
                         ]
                     ]
@@ -53,7 +53,7 @@ async def start(bot, update):
                         [
                             InlineKeyboardButton
                                 (
-                                    'My Dev 👨‍🔬', url="https://t.me/CrazyBotsz"
+                                    'My GOD 👨‍🔬', url="https://t.me/Deeks_04_8"
                                 )
                         ]
                     ]
@@ -71,7 +71,7 @@ async def start(bot, update):
                         [
                             InlineKeyboardButton
                                 (
-                                    'My Dev 👨‍🔬', url="https://t.me/CrazyBotsz"
+                                    'My GOD 👨‍🔬', url="https://t.me/Deeks_04_8"
                                 )
                         ]
                     ]
@@ -84,10 +84,10 @@ async def start(bot, update):
         return
 
     buttons = [[
-        InlineKeyboardButton('Developers', url='https://t.me/CrazyBotsz'),
-        InlineKeyboardButton('Source Code 🧾', url ='https://github.com/AlbertEinsteinTG/Adv-Auto-Filter-Bot-V2')
+        InlineKeyboardButton('😎FUNDER😎', url='https://t.me/Deeks_04_8'),
+        InlineKeyboardButton('🏅JOIN OUR CHANNELS🏅', url ='https://t.me/UNI_MOVIES_BOX')
     ],[
-        InlineKeyboardButton('Support 🛠', url='https://t.me/CrazyBotszGrp')
+        InlineKeyboardButton('🛡️JOIN OUR GROUP🛡️', url='https://t.me/UM_Requests')
     ],[
         InlineKeyboardButton('Help ⚙', callback_data="help")
     ]]
@@ -108,7 +108,7 @@ async def start(bot, update):
 async def help(bot, update):
     buttons = [[
         InlineKeyboardButton('Home ⚡', callback_data='start'),
-        InlineKeyboardButton('About 🚩', callback_data='about')
+      
     ],[
         InlineKeyboardButton('Close 🔐', callback_data='close')
     ]]
