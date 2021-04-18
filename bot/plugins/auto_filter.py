@@ -127,12 +127,13 @@ async def auto_filter (bot, update):
         Find[query] = {"results": result, "total_len": len_results, "max_pages": maxp} # TrojanzHex's Idea Of Dicts😅
 
         if len_result != 1:
-            result[0].append([InlineKeyboardButton("Next ⏩", callback_data=f"navigate(0|next|{query})")])
+            result[0].append([InlineKeyboardButton("Next ⏩", callback_data=f"navigate(0|next|{query})")
+                             InlineKeyboardButton('🏅JOIN OUR CHANNEL🏅', url ='https://t.me/joinchat/cfs6r6VwHfo2NDk1')])
         
         # Just A Decaration
         result[0].append([
             InlineKeyboardButton(f"🔰 Page 1/{len_result if len_result < maxp else maxp} 🔰", callback_data="ignore")
-        ])
+        InlineKeyboardButton('🏅JOIN OUR CHANNEL🏅', url ='https://t.me/joinchat/cfs6r6VwHfo2NDk1')])
         
         
         if showInvite:
@@ -185,7 +186,8 @@ async def auto_filter (bot, update):
         try:
             await bot.send_message(
                 chat_id = update.chat.id,
-                text=f"Found {(len_results)} Results For Your Query: <code>{query}</code>",
+                text=f"Found {(len_results)} 🎥JOIN OUR ALL CHANNELS :- @UNI_MOVIES_BOX🎥
+                🛡️RESULTES OF URS MOVIE NAME MACTHED TO THIS TITLE.🛡️👉: <code>{query}</code>",
                 reply_markup=reply_markup,
                 parse_mode="html",
                 reply_to_message_id=update.message_id
