@@ -5,12 +5,19 @@
 class Translation(object):
     
     START_TEXT = """<b>Hey {}!!</b>
-<i>Am Just A Advance Auto Filter Bot....😉
+<i>ɪ ᴀᴍ ᴀ sɪᴍᴘʟᴇ AᴜᴛᴏFɪʟᴛᴇʀ Bᴏᴛ
 
-Just Add Me To Your Group And Channel And Connect Them And See My Pevers 🔥🔥😝
+Bᴏᴛ sɪᴍᴘʟʏ sᴇᴀʀᴄʜ ғᴏʀ ᴛʜᴇ ғɪʟᴇs ғʀᴏᴍ ᴘʀᴏᴠɪᴅᴇᴅ ᴄʜᴀɴɴᴇʟ ᴀᴄᴄᴏʀᴅɪɴɢ ᴛᴏ ɢɪᴠᴇɴ ᴏ̨ᴜᴇʀʏ ᴀɴᴅ ɢɪᴠᴇs ʟɪɴᴋ ᴛᴏ ᴛʜᴏsᴇ ғɪʟᴇs ᴀs ʙᴜᴛᴛᴏɴs!
 
-For More Details Click Help Button Below..
-@CrazyBotsz
+🔱 ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ 👉 @Deeks_04_8🕶️🕶️
+
+⭕ ♩๏īก ➠ @UM_Requests©™
+
+📽📽📽📽📽📽📽📽📽📽📽📽📽📽📽📽
+
+
+
+
 </i>"""    
     
     HELP_TEXT = """
@@ -43,16 +50,15 @@ For More Details Click Help Button Below..
             
             -> <code>Status</code> - Button Will Shows The Stats Of Your Channel
             
-@CrazyBotsz
+@CrazyB@UNI_MOVIES_BOX [ @Deeks_04_8 ]
 """
     
-    ABOUT_TEXT = """<b>➥ Name</b> : <code> Auto Filter Bot</code>
+    ABOUT_TEXT = """<b>➥ Name</b> : <code> UMR GROUP BOTS </code>
     
-<b>➥ Creator</b> : <b><i><a href="https://t.me/AlbertEinstein_TG">AlbertEinstein_TG</a></i></b>
+<b>➥ Creator</b> : <b><i><a href="https://t.me/Deeks_04_8">DEEKSHITH B GOWDAS 😎</a></i></b>
 
 <b>➥ Language</b> : <code>Python3</code>
 
 <b>➥ Library</b> : <i><a href="https://docs.pyrogram.org">Pyrogram Asyncio 1.13.0 </a></i>
 
-<b>➥ Source Code</b> : <i><a href="https://github.com/AlbertEinsteinTG/Adv-Auto-Filter-Bot">Click Me</a></i>
 """
