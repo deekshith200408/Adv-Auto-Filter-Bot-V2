@@ -127,8 +127,8 @@ async def auto_filter (bot, update):
         Find[query] = {"results": result, "total_len": len_results, "max_pages": maxp} # TrojanzHex's Idea Of Dicts😅
 
         if len_result != 1:
-            result[0].append([InlineKeyboardButton("Next ⏩", callback_data=f"navigate(0|next|{query})")
-                             InlineKeyboardButton('🏅JOIN OUR CHANNEL🏅', url ='https://t.me/joinchat/cfs6r6VwHfo2NDk1')])
+            result[0].append([InlineKeyboardButton("Next ⏩", callback_data=f"navigate(0|next|{query})")])
+
         
         # Just A Decaration
         result[0].append([
