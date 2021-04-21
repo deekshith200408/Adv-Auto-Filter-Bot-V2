@@ -66,8 +66,11 @@ OR
 #### PR's Are Very Welcome
 
 ## Deploy
+
 You can deploy this bot anywhere.
+
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/deekshith200408/Adv-Auto-Filter-Bot-V2)
+
 <i>**[Watch Deploying Tutorial...](https://youtu.be/KTearEPhumc)**</i>
 
 <details><summary>Deploy To Heroku</summary>
