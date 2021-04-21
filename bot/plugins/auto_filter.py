@@ -132,8 +132,7 @@ async def auto_filter (bot, update):
         
         # Just A Decaration
         result[0].append([
-            InlineKeyboardButton(f"🔰 Page 1/{len_result if len_result < maxp else maxp} 🔰", callback_data="ignore")
-        InlineKeyboardButton('🏅JOIN OUR CHANNEL🏅', url ='https://t.me/joinchat/cfs6r6VwHfo2NDk1')])
+            InlineKeyboardButton(f"🔰 Page 1/{len_result if len_result < maxp else maxp} 🔰", callback_data="ignore"])
         
         
         if showInvite:
