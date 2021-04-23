@@ -50,12 +50,12 @@ Bᴏᴛ sɪᴍᴘʟʏ sᴇᴀʀᴄʜ ғᴏʀ ᴛʜᴇ ғɪʟᴇs ғʀᴏᴍ ᴘ�
             
             -> <code>Status</code> - Button Will Shows The Stats Of Your Channel
             
-@CrazyB@UNI_MOVIES_BOX [ @Deeks_04_8 ]
+    ⚔️😎 @UNI_MOVIES_BOX [ @Deeks_04_8 ] 💞❤
 """
     
     ABOUT_TEXT = """<b>➥ Name</b> : <code> UMR GROUP BOTS </code>
     
-<b>➥ Creator</b> : <b><i><a href="https://t.me/Deeks_04_8">DEEKSHITH B GOWDAS 😎</a></i></b>
+<b>➥ Creator</b> : <b><i><a href="https://t.me/Deeks_04_8">DEEKS B GOWDAS 😎</a></i></b>
 
 <b>➥ Language</b> : <code>Python3</code>
 
