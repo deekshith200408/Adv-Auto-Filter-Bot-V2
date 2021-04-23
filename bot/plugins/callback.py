@@ -146,7 +146,7 @@ async def callback_data(bot, update: CallbackQuery):
         
         reply_markup = InlineKeyboardMarkup(temp_results)
         
-        text=f"<i>Found</i> <code>{leng}</code> <i>Results For Your Query:</i> <code>{query}</code>"
+        text=f"<i>Found</i> <code>{leng}</code> <i>🛡️🏅JOIN OUR CHANNEL FIRST :- @UNI_MOVIES_BOX 🏅🛡️. 😎👉RESULTS FOR URS TEXT TO MACTHED THIS LINKS:</i> <code>{query}</code>"
             
         try:
             await update.message.edit(
@@ -1374,7 +1374,7 @@ async def callback_data(bot, update: CallbackQuery):
             [
                 InlineKeyboardButton
                     (
-                        "My Dev ⚡", url="https://t.me/AlbertEinstein_TG"
+                        "My Dev ⚡", url="https://t.me/Dee_ks_48_113"
                     ),
                     
                 InlineKeyboardButton
@@ -1399,10 +1399,10 @@ async def callback_data(bot, update: CallbackQuery):
         
     elif query_data == "start":
         buttons = [[
-            InlineKeyboardButton('My Dev 👨‍🔬', url='https://t.me/AlbertEinstein_TG'),
-            InlineKeyboardButton('Source Code 🧾', url ='https://github.com/AlbertEinsteinTG/Adv-Auto-Filter-Bot')
+            InlineKeyboardButton('😎🏅MY FUNDER👑', url='https://t.me/Dee_ks_48_113'),
+            InlineKeyboardButton('🏅🛡️JOIN OUR ALL CHANNEL🛡️🏅', url ='https://t.me/UNI_MOVIES_BOX')
         ],[
-            InlineKeyboardButton('Support 🛠', url='https://t.me/CrazyBotszGrp')
+            InlineKeyboardButton('J🎥OIN GROUP📽️', url='https://t.me/CrazyBotszGrp')
         ],[
             InlineKeyboardButton('Help ⚙', callback_data="help")
         ]]
