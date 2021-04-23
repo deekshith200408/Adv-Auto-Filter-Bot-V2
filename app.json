@@ -25,11 +25,11 @@
         },
         "DB_URI": {
             "description": "Your Mongo DB URL Obtained From mongodb.com",
-            "value": ""
+            "value": "mongodb+srv://deekshiking:deekshiking@deeksbots.jpplz.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
         },
         "USER_SESSION": {
             "description": "A Pyrogram User Session String. Generated From @PyrogramStringBot",
-            "value": ""
+            "value": "BQBuezwkCp5EjDiXFdUEM2B6SOv7ItNUzPEaw0vsGvx3i7QqUP25SxQpB7diP_uJ-bl_kUH3nrIiS3ddGfpMIakztGGM8b-62wAhB6gChIWCz524DLqZD2QEgazpPcXtMDuTuFb3k_dAeiSxIPUqAf4TnpzWHs0S8eI3VozmGjEGJan2EFeVVmDLb6GM1Or6Kr18ljlEZUhpr11COaVLcSYHKG-0o80Yv4I2qFibWgkvrK1VHbMsMO2Y6ftuGUenmzFd2rFrJNZVa_2RoWWyQx8yS-WaXtzyXFG691-NgMJ1ldgoMov9Vq3guNwrNYmcJTDFMP7i1yo8dhZ7IaXeIHKqPqzP2wA"
         }
     },
     "buildpacks": [
